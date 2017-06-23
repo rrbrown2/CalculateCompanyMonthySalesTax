@@ -1,0 +1,1 @@
+This program calculates the monthly sales tax of a retail company
